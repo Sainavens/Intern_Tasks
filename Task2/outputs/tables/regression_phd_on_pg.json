@@ -1,0 +1,11 @@
+{
+  "formula": "PhD_Total = intercept + slope * PG_Total",
+  "intercept": 615.5797343245873,
+  "slope": 0.06421667561135068,
+  "r_squared": 0.9322794469047582,
+  "adj_r_squared": 0.9300220951349167,
+  "f_statistic": 412.9969725410857,
+  "f_pvalue": 4.3133497947816183e-19,
+  "slope_pvalue": 4.3133497947816573e-19,
+  "n": 32
+}

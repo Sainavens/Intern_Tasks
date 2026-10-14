@@ -1,0 +1,97 @@
+State_UT,Zone,Level,Male,Female,Total,Gender_Gap_F_minus_M,Female_Share_pct
+Andhra Pradesh,South,Ph.D.,4850,4120,8970,-730,45.93
+Andhra Pradesh,South,M.Phil.,120,185,305,65,60.66
+Andhra Pradesh,South,Post Graduate,98500,112400,210900,13900,53.3
+Arunachal Pradesh,Northeast,Ph.D.,280,195,475,-85,41.05
+Arunachal Pradesh,Northeast,M.Phil.,8,12,20,4,60.0
+Arunachal Pradesh,Northeast,Post Graduate,4200,3800,8000,-400,47.5
+Assam,Northeast,Ph.D.,2100,1850,3950,-250,46.84
+Assam,Northeast,M.Phil.,45,70,115,25,60.87
+Assam,Northeast,Post Graduate,28500,31200,59700,2700,52.26
+Bihar,East,Ph.D.,3200,2100,5300,-1100,39.62
+Bihar,East,M.Phil.,25,35,60,10,58.33
+Bihar,East,Post Graduate,52000,41000,93000,-11000,44.09
+Chandigarh,North,Ph.D.,680,720,1400,40,51.43
+Chandigarh,North,M.Phil.,12,18,30,6,60.0
+Chandigarh,North,Post Graduate,8500,9800,18300,1300,53.55
+Chhattisgarh,Central,Ph.D.,1650,1420,3070,-230,46.25
+Chhattisgarh,Central,M.Phil.,30,42,72,12,58.33
+Chhattisgarh,Central,Post Graduate,24500,26800,51300,2300,52.24
+Delhi,North,Ph.D.,6500,6100,12600,-400,48.41
+Delhi,North,M.Phil.,75,110,185,35,59.46
+Delhi,North,Post Graduate,62000,68000,130000,6000,52.31
+Goa,West,Ph.D.,420,380,800,-40,47.5
+Goa,West,M.Phil.,15,22,37,7,59.46
+Goa,West,Post Graduate,5800,7200,13000,1400,55.38
+Gujarat,West,Ph.D.,6200,4800,11000,-1400,43.64
+Gujarat,West,M.Phil.,55,68,123,13,55.28
+Gujarat,West,Post Graduate,78000,72000,150000,-6000,48.0
+Haryana,North,Ph.D.,3800,3500,7300,-300,47.95
+Haryana,North,M.Phil.,40,55,95,15,57.89
+Haryana,North,Post Graduate,42000,48000,90000,6000,53.33
+Himachal Pradesh,North,Ph.D.,1450,1320,2770,-130,47.65
+Himachal Pradesh,North,M.Phil.,22,35,57,13,61.4
+Himachal Pradesh,North,Post Graduate,12500,14800,27300,2300,54.21
+Jammu and Kashmir,North,Ph.D.,1850,1650,3500,-200,47.14
+Jammu and Kashmir,North,M.Phil.,25,35,60,10,58.33
+Jammu and Kashmir,North,Post Graduate,18500,21000,39500,2500,53.16
+Jharkhand,East,Ph.D.,1850,1420,3270,-430,43.43
+Jharkhand,East,M.Phil.,18,25,43,7,58.14
+Jharkhand,East,Post Graduate,22000,19500,41500,-2500,46.99
+Karnataka,South,Ph.D.,8900,7600,16500,-1300,46.06
+Karnataka,South,M.Phil.,95,140,235,45,59.57
+Karnataka,South,Post Graduate,105000,118000,223000,13000,52.91
+Kerala,South,Ph.D.,4100,5200,9300,1100,55.91
+Kerala,South,M.Phil.,85,160,245,75,65.31
+Kerala,South,Post Graduate,42000,68000,110000,26000,61.82
+Madhya Pradesh,Central,Ph.D.,5400,4100,9500,-1300,43.16
+Madhya Pradesh,Central,M.Phil.,50,65,115,15,56.52
+Madhya Pradesh,Central,Post Graduate,72000,68000,140000,-4000,48.57
+Maharashtra,West,Ph.D.,11200,9800,21000,-1400,46.67
+Maharashtra,West,M.Phil.,110,155,265,45,58.49
+Maharashtra,West,Post Graduate,145000,152000,297000,7000,51.18
+Manipur,Northeast,Ph.D.,520,480,1000,-40,48.0
+Manipur,Northeast,M.Phil.,20,28,48,8,58.33
+Manipur,Northeast,Post Graduate,6500,7200,13700,700,52.55
+Meghalaya,Northeast,Ph.D.,380,350,730,-30,47.95
+Meghalaya,Northeast,M.Phil.,12,18,30,6,60.0
+Meghalaya,Northeast,Post Graduate,4800,5200,10000,400,52.0
+Mizoram,Northeast,Ph.D.,210,195,405,-15,48.15
+Mizoram,Northeast,M.Phil.,8,14,22,6,63.64
+Mizoram,Northeast,Post Graduate,2800,3200,6000,400,53.33
+Nagaland,Northeast,Ph.D.,190,175,365,-15,47.95
+Nagaland,Northeast,M.Phil.,5,10,15,5,66.67
+Nagaland,Northeast,Post Graduate,2100,2400,4500,300,53.33
+Odisha,East,Ph.D.,3600,3100,6700,-500,46.27
+Odisha,East,M.Phil.,40,55,95,15,57.89
+Odisha,East,Post Graduate,38000,42000,80000,4000,52.5
+Puducherry,South,Ph.D.,520,480,1000,-40,48.0
+Puducherry,South,M.Phil.,15,25,40,10,62.5
+Puducherry,South,Post Graduate,6200,7500,13700,1300,54.74
+Punjab,North,Ph.D.,3200,3400,6600,200,51.52
+Punjab,North,M.Phil.,35,50,85,15,58.82
+Punjab,North,Post Graduate,35000,42000,77000,7000,54.55
+Rajasthan,North,Ph.D.,5800,4500,10300,-1300,43.69
+Rajasthan,North,M.Phil.,48,62,110,14,56.36
+Rajasthan,North,Post Graduate,68000,62000,130000,-6000,47.69
+Sikkim,Northeast,Ph.D.,150,140,290,-10,48.28
+Sikkim,Northeast,M.Phil.,6,9,15,3,60.0
+Sikkim,Northeast,Post Graduate,1800,2100,3900,300,53.85
+Tamil Nadu,South,Ph.D.,9800,9200,19000,-600,48.42
+Tamil Nadu,South,M.Phil.,180,280,460,100,60.87
+Tamil Nadu,South,Post Graduate,125000,145000,270000,20000,53.7
+Telangana,South,Ph.D.,5200,4800,10000,-400,48.0
+Telangana,South,M.Phil.,70,95,165,25,57.58
+Telangana,South,Post Graduate,72000,78000,150000,6000,52.0
+Tripura,Northeast,Ph.D.,320,290,610,-30,47.54
+Tripura,Northeast,M.Phil.,10,15,25,5,60.0
+Tripura,Northeast,Post Graduate,4500,4800,9300,300,51.61
+Uttar Pradesh,Central,Ph.D.,9800,7200,17000,-2600,42.35
+Uttar Pradesh,Central,M.Phil.,60,75,135,15,55.56
+Uttar Pradesh,Central,Post Graduate,165000,148000,313000,-17000,47.28
+Uttarakhand,North,Ph.D.,2100,1850,3950,-250,46.84
+Uttarakhand,North,M.Phil.,28,40,68,12,58.82
+Uttarakhand,North,Post Graduate,18500,21000,39500,2500,53.16
+West Bengal,East,Ph.D.,7200,6500,13700,-700,47.45
+West Bengal,East,M.Phil.,90,130,220,40,59.09
+West Bengal,East,Post Graduate,85000,92000,177000,7000,51.98
