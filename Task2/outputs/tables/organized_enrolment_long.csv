@@ -1,0 +1,289 @@
+State_UT,Zone,Level,Gender,Enrolment
+Andhra Pradesh,South,Ph.D.,Male,4850
+Andhra Pradesh,South,Ph.D.,Female,4120
+Andhra Pradesh,South,Ph.D.,Total,8970
+Andhra Pradesh,South,M.Phil.,Male,120
+Andhra Pradesh,South,M.Phil.,Female,185
+Andhra Pradesh,South,M.Phil.,Total,305
+Andhra Pradesh,South,Post Graduate,Male,98500
+Andhra Pradesh,South,Post Graduate,Female,112400
+Andhra Pradesh,South,Post Graduate,Total,210900
+Arunachal Pradesh,Northeast,Ph.D.,Male,280
+Arunachal Pradesh,Northeast,Ph.D.,Female,195
+Arunachal Pradesh,Northeast,Ph.D.,Total,475
+Arunachal Pradesh,Northeast,M.Phil.,Male,8
+Arunachal Pradesh,Northeast,M.Phil.,Female,12
+Arunachal Pradesh,Northeast,M.Phil.,Total,20
+Arunachal Pradesh,Northeast,Post Graduate,Male,4200
+Arunachal Pradesh,Northeast,Post Graduate,Female,3800
+Arunachal Pradesh,Northeast,Post Graduate,Total,8000
+Assam,Northeast,Ph.D.,Male,2100
+Assam,Northeast,Ph.D.,Female,1850
+Assam,Northeast,Ph.D.,Total,3950
+Assam,Northeast,M.Phil.,Male,45
+Assam,Northeast,M.Phil.,Female,70
+Assam,Northeast,M.Phil.,Total,115
+Assam,Northeast,Post Graduate,Male,28500
+Assam,Northeast,Post Graduate,Female,31200
+Assam,Northeast,Post Graduate,Total,59700
+Bihar,East,Ph.D.,Male,3200
+Bihar,East,Ph.D.,Female,2100
+Bihar,East,Ph.D.,Total,5300
+Bihar,East,M.Phil.,Male,25
+Bihar,East,M.Phil.,Female,35
+Bihar,East,M.Phil.,Total,60
+Bihar,East,Post Graduate,Male,52000
+Bihar,East,Post Graduate,Female,41000
+Bihar,East,Post Graduate,Total,93000
+Chandigarh,North,Ph.D.,Male,680
+Chandigarh,North,Ph.D.,Female,720
+Chandigarh,North,Ph.D.,Total,1400
+Chandigarh,North,M.Phil.,Male,12
+Chandigarh,North,M.Phil.,Female,18
+Chandigarh,North,M.Phil.,Total,30
+Chandigarh,North,Post Graduate,Male,8500
+Chandigarh,North,Post Graduate,Female,9800
+Chandigarh,North,Post Graduate,Total,18300
+Chhattisgarh,Central,Ph.D.,Male,1650
+Chhattisgarh,Central,Ph.D.,Female,1420
+Chhattisgarh,Central,Ph.D.,Total,3070
+Chhattisgarh,Central,M.Phil.,Male,30
+Chhattisgarh,Central,M.Phil.,Female,42
+Chhattisgarh,Central,M.Phil.,Total,72
+Chhattisgarh,Central,Post Graduate,Male,24500
+Chhattisgarh,Central,Post Graduate,Female,26800
+Chhattisgarh,Central,Post Graduate,Total,51300
+Delhi,North,Ph.D.,Male,6500
+Delhi,North,Ph.D.,Female,6100
+Delhi,North,Ph.D.,Total,12600
+Delhi,North,M.Phil.,Male,75
+Delhi,North,M.Phil.,Female,110
+Delhi,North,M.Phil.,Total,185
+Delhi,North,Post Graduate,Male,62000
+Delhi,North,Post Graduate,Female,68000
+Delhi,North,Post Graduate,Total,130000
+Goa,West,Ph.D.,Male,420
+Goa,West,Ph.D.,Female,380
+Goa,West,Ph.D.,Total,800
+Goa,West,M.Phil.,Male,15
+Goa,West,M.Phil.,Female,22
+Goa,West,M.Phil.,Total,37
+Goa,West,Post Graduate,Male,5800
+Goa,West,Post Graduate,Female,7200
+Goa,West,Post Graduate,Total,13000
+Gujarat,West,Ph.D.,Male,6200
+Gujarat,West,Ph.D.,Female,4800
+Gujarat,West,Ph.D.,Total,11000
+Gujarat,West,M.Phil.,Male,55
+Gujarat,West,M.Phil.,Female,68
+Gujarat,West,M.Phil.,Total,123
+Gujarat,West,Post Graduate,Male,78000
+Gujarat,West,Post Graduate,Female,72000
+Gujarat,West,Post Graduate,Total,150000
+Haryana,North,Ph.D.,Male,3800
+Haryana,North,Ph.D.,Female,3500
+Haryana,North,Ph.D.,Total,7300
+Haryana,North,M.Phil.,Male,40
+Haryana,North,M.Phil.,Female,55
+Haryana,North,M.Phil.,Total,95
+Haryana,North,Post Graduate,Male,42000
+Haryana,North,Post Graduate,Female,48000
+Haryana,North,Post Graduate,Total,90000
+Himachal Pradesh,North,Ph.D.,Male,1450
+Himachal Pradesh,North,Ph.D.,Female,1320
+Himachal Pradesh,North,Ph.D.,Total,2770
+Himachal Pradesh,North,M.Phil.,Male,22
+Himachal Pradesh,North,M.Phil.,Female,35
+Himachal Pradesh,North,M.Phil.,Total,57
+Himachal Pradesh,North,Post Graduate,Male,12500
+Himachal Pradesh,North,Post Graduate,Female,14800
+Himachal Pradesh,North,Post Graduate,Total,27300
+Jammu and Kashmir,North,Ph.D.,Male,1850
+Jammu and Kashmir,North,Ph.D.,Female,1650
+Jammu and Kashmir,North,Ph.D.,Total,3500
+Jammu and Kashmir,North,M.Phil.,Male,25
+Jammu and Kashmir,North,M.Phil.,Female,35
+Jammu and Kashmir,North,M.Phil.,Total,60
+Jammu and Kashmir,North,Post Graduate,Male,18500
+Jammu and Kashmir,North,Post Graduate,Female,21000
+Jammu and Kashmir,North,Post Graduate,Total,39500
+Jharkhand,East,Ph.D.,Male,1850
+Jharkhand,East,Ph.D.,Female,1420
+Jharkhand,East,Ph.D.,Total,3270
+Jharkhand,East,M.Phil.,Male,18
+Jharkhand,East,M.Phil.,Female,25
+Jharkhand,East,M.Phil.,Total,43
+Jharkhand,East,Post Graduate,Male,22000
+Jharkhand,East,Post Graduate,Female,19500
+Jharkhand,East,Post Graduate,Total,41500
+Karnataka,South,Ph.D.,Male,8900
+Karnataka,South,Ph.D.,Female,7600
+Karnataka,South,Ph.D.,Total,16500
+Karnataka,South,M.Phil.,Male,95
+Karnataka,South,M.Phil.,Female,140
+Karnataka,South,M.Phil.,Total,235
+Karnataka,South,Post Graduate,Male,105000
+Karnataka,South,Post Graduate,Female,118000
+Karnataka,South,Post Graduate,Total,223000
+Kerala,South,Ph.D.,Male,4100
+Kerala,South,Ph.D.,Female,5200
+Kerala,South,Ph.D.,Total,9300
+Kerala,South,M.Phil.,Male,85
+Kerala,South,M.Phil.,Female,160
+Kerala,South,M.Phil.,Total,245
+Kerala,South,Post Graduate,Male,42000
+Kerala,South,Post Graduate,Female,68000
+Kerala,South,Post Graduate,Total,110000
+Madhya Pradesh,Central,Ph.D.,Male,5400
+Madhya Pradesh,Central,Ph.D.,Female,4100
+Madhya Pradesh,Central,Ph.D.,Total,9500
+Madhya Pradesh,Central,M.Phil.,Male,50
+Madhya Pradesh,Central,M.Phil.,Female,65
+Madhya Pradesh,Central,M.Phil.,Total,115
+Madhya Pradesh,Central,Post Graduate,Male,72000
+Madhya Pradesh,Central,Post Graduate,Female,68000
+Madhya Pradesh,Central,Post Graduate,Total,140000
+Maharashtra,West,Ph.D.,Male,11200
+Maharashtra,West,Ph.D.,Female,9800
+Maharashtra,West,Ph.D.,Total,21000
+Maharashtra,West,M.Phil.,Male,110
+Maharashtra,West,M.Phil.,Female,155
+Maharashtra,West,M.Phil.,Total,265
+Maharashtra,West,Post Graduate,Male,145000
+Maharashtra,West,Post Graduate,Female,152000
+Maharashtra,West,Post Graduate,Total,297000
+Manipur,Northeast,Ph.D.,Male,520
+Manipur,Northeast,Ph.D.,Female,480
+Manipur,Northeast,Ph.D.,Total,1000
+Manipur,Northeast,M.Phil.,Male,20
+Manipur,Northeast,M.Phil.,Female,28
+Manipur,Northeast,M.Phil.,Total,48
+Manipur,Northeast,Post Graduate,Male,6500
+Manipur,Northeast,Post Graduate,Female,7200
+Manipur,Northeast,Post Graduate,Total,13700
+Meghalaya,Northeast,Ph.D.,Male,380
+Meghalaya,Northeast,Ph.D.,Female,350
+Meghalaya,Northeast,Ph.D.,Total,730
+Meghalaya,Northeast,M.Phil.,Male,12
+Meghalaya,Northeast,M.Phil.,Female,18
+Meghalaya,Northeast,M.Phil.,Total,30
+Meghalaya,Northeast,Post Graduate,Male,4800
+Meghalaya,Northeast,Post Graduate,Female,5200
+Meghalaya,Northeast,Post Graduate,Total,10000
+Mizoram,Northeast,Ph.D.,Male,210
+Mizoram,Northeast,Ph.D.,Female,195
+Mizoram,Northeast,Ph.D.,Total,405
+Mizoram,Northeast,M.Phil.,Male,8
+Mizoram,Northeast,M.Phil.,Female,14
+Mizoram,Northeast,M.Phil.,Total,22
+Mizoram,Northeast,Post Graduate,Male,2800
+Mizoram,Northeast,Post Graduate,Female,3200
+Mizoram,Northeast,Post Graduate,Total,6000
+Nagaland,Northeast,Ph.D.,Male,190
+Nagaland,Northeast,Ph.D.,Female,175
+Nagaland,Northeast,Ph.D.,Total,365
+Nagaland,Northeast,M.Phil.,Male,5
+Nagaland,Northeast,M.Phil.,Female,10
+Nagaland,Northeast,M.Phil.,Total,15
+Nagaland,Northeast,Post Graduate,Male,2100
+Nagaland,Northeast,Post Graduate,Female,2400
+Nagaland,Northeast,Post Graduate,Total,4500
+Odisha,East,Ph.D.,Male,3600
+Odisha,East,Ph.D.,Female,3100
+Odisha,East,Ph.D.,Total,6700
+Odisha,East,M.Phil.,Male,40
+Odisha,East,M.Phil.,Female,55
+Odisha,East,M.Phil.,Total,95
+Odisha,East,Post Graduate,Male,38000
+Odisha,East,Post Graduate,Female,42000
+Odisha,East,Post Graduate,Total,80000
+Puducherry,South,Ph.D.,Male,520
+Puducherry,South,Ph.D.,Female,480
+Puducherry,South,Ph.D.,Total,1000
+Puducherry,South,M.Phil.,Male,15
+Puducherry,South,M.Phil.,Female,25
+Puducherry,South,M.Phil.,Total,40
+Puducherry,South,Post Graduate,Male,6200
+Puducherry,South,Post Graduate,Female,7500
+Puducherry,South,Post Graduate,Total,13700
+Punjab,North,Ph.D.,Male,3200
+Punjab,North,Ph.D.,Female,3400
+Punjab,North,Ph.D.,Total,6600
+Punjab,North,M.Phil.,Male,35
+Punjab,North,M.Phil.,Female,50
+Punjab,North,M.Phil.,Total,85
+Punjab,North,Post Graduate,Male,35000
+Punjab,North,Post Graduate,Female,42000
+Punjab,North,Post Graduate,Total,77000
+Rajasthan,North,Ph.D.,Male,5800
+Rajasthan,North,Ph.D.,Female,4500
+Rajasthan,North,Ph.D.,Total,10300
+Rajasthan,North,M.Phil.,Male,48
+Rajasthan,North,M.Phil.,Female,62
+Rajasthan,North,M.Phil.,Total,110
+Rajasthan,North,Post Graduate,Male,68000
+Rajasthan,North,Post Graduate,Female,62000
+Rajasthan,North,Post Graduate,Total,130000
+Sikkim,Northeast,Ph.D.,Male,150
+Sikkim,Northeast,Ph.D.,Female,140
+Sikkim,Northeast,Ph.D.,Total,290
+Sikkim,Northeast,M.Phil.,Male,6
+Sikkim,Northeast,M.Phil.,Female,9
+Sikkim,Northeast,M.Phil.,Total,15
+Sikkim,Northeast,Post Graduate,Male,1800
+Sikkim,Northeast,Post Graduate,Female,2100
+Sikkim,Northeast,Post Graduate,Total,3900
+Tamil Nadu,South,Ph.D.,Male,9800
+Tamil Nadu,South,Ph.D.,Female,9200
+Tamil Nadu,South,Ph.D.,Total,19000
+Tamil Nadu,South,M.Phil.,Male,180
+Tamil Nadu,South,M.Phil.,Female,280
+Tamil Nadu,South,M.Phil.,Total,460
+Tamil Nadu,South,Post Graduate,Male,125000
+Tamil Nadu,South,Post Graduate,Female,145000
+Tamil Nadu,South,Post Graduate,Total,270000
+Telangana,South,Ph.D.,Male,5200
+Telangana,South,Ph.D.,Female,4800
+Telangana,South,Ph.D.,Total,10000
+Telangana,South,M.Phil.,Male,70
+Telangana,South,M.Phil.,Female,95
+Telangana,South,M.Phil.,Total,165
+Telangana,South,Post Graduate,Male,72000
+Telangana,South,Post Graduate,Female,78000
+Telangana,South,Post Graduate,Total,150000
+Tripura,Northeast,Ph.D.,Male,320
+Tripura,Northeast,Ph.D.,Female,290
+Tripura,Northeast,Ph.D.,Total,610
+Tripura,Northeast,M.Phil.,Male,10
+Tripura,Northeast,M.Phil.,Female,15
+Tripura,Northeast,M.Phil.,Total,25
+Tripura,Northeast,Post Graduate,Male,4500
+Tripura,Northeast,Post Graduate,Female,4800
+Tripura,Northeast,Post Graduate,Total,9300
+Uttar Pradesh,Central,Ph.D.,Male,9800
+Uttar Pradesh,Central,Ph.D.,Female,7200
+Uttar Pradesh,Central,Ph.D.,Total,17000
+Uttar Pradesh,Central,M.Phil.,Male,60
+Uttar Pradesh,Central,M.Phil.,Female,75
+Uttar Pradesh,Central,M.Phil.,Total,135
+Uttar Pradesh,Central,Post Graduate,Male,165000
+Uttar Pradesh,Central,Post Graduate,Female,148000
+Uttar Pradesh,Central,Post Graduate,Total,313000
+Uttarakhand,North,Ph.D.,Male,2100
+Uttarakhand,North,Ph.D.,Female,1850
+Uttarakhand,North,Ph.D.,Total,3950
+Uttarakhand,North,M.Phil.,Male,28
+Uttarakhand,North,M.Phil.,Female,40
+Uttarakhand,North,M.Phil.,Total,68
+Uttarakhand,North,Post Graduate,Male,18500
+Uttarakhand,North,Post Graduate,Female,21000
+Uttarakhand,North,Post Graduate,Total,39500
+West Bengal,East,Ph.D.,Male,7200
+West Bengal,East,Ph.D.,Female,6500
+West Bengal,East,Ph.D.,Total,13700
+West Bengal,East,M.Phil.,Male,90
+West Bengal,East,M.Phil.,Female,130
+West Bengal,East,M.Phil.,Total,220
+West Bengal,East,Post Graduate,Male,85000
+West Bengal,East,Post Graduate,Female,92000
+West Bengal,East,Post Graduate,Total,177000

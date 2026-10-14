@@ -1,0 +1,28 @@
+{
+  "Ph.D.": {
+    "zones": [
+      "Central",
+      "East",
+      "North",
+      "Northeast",
+      "South",
+      "West"
+    ],
+    "F": 3.438711941053493,
+    "p_value": 0.016187284478045613,
+    "significant_at_05": true
+  },
+  "Post Graduate": {
+    "zones": [
+      "Central",
+      "East",
+      "North",
+      "Northeast",
+      "South",
+      "West"
+    ],
+    "F": 4.004015023878325,
+    "p_value": 0.007940010654604483,
+    "significant_at_05": true
+  }
+}
